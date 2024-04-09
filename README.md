@@ -1,6 +1,7 @@
-**Note**: The code in this repository is part of the [MobileAtlas
-project](https://www.mobileatlas.eu/). For more information, please visit the
-[main MobileAtlas repository](https://github.com/sbaresearch/mobile-atlas).
+> [!CAUTION]
+> **DEPRECATED**
+> The tunnel server version in this repository is **out of date and deprecated**,
+> and the implementation was merged into the [main repository](https://github.com/sbaresearch/mobile-atlas).
 
 ---
 
